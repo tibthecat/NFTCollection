@@ -1,0 +1,31 @@
+{
+  "name": "SyntheticCATS #5",
+  "description": "A collection of synthetic cats",
+  "image": "ipfs://bafybeibpug2ub23ocp5i3rgo2mkqet2at5u53axptb537ppqmtcyq2opge/5.png",
+  "dna": "2644bbf450f2c749c006997e46c326f5e3a2fe39",
+  "edition": 5,
+  "date": 1747841937868,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bg_grid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body_white"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyes_glitch"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "headgear_cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mouth_straight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
