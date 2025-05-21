@@ -1,0 +1,31 @@
+{
+  "name": "SyntheticCATS #2",
+  "description": "A collection of synthetic cats",
+  "image": "ipfs://bafybeibpug2ub23ocp5i3rgo2mkqet2at5u53axptb537ppqmtcyq2opge/2.png",
+  "dna": "ca1d93cedaa1701573be17c128dea8c533462c64",
+  "edition": 2,
+  "date": 1747841937773,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bg_grid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body_white"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyes_laser"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "headgear_vr"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mouth_straight"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
