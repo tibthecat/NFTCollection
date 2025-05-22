@@ -1,4 +1,4 @@
-# 🖼️ NFT Portfolio Project
+# 🖼️ NFT Project
 
 This repository demonstrates a complete pipeline for generating and deploying an NFT collection, including asset generation, metadata creation, IPFS uploading, and smart contract deployment using Solidity + Foundry.
 
