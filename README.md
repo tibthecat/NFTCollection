@@ -22,7 +22,7 @@ nft-project/
 │   └── generate.py
 ├── solidity/           # Foundry project with smart contract code
 │   ├── src/
-│   │   └── MyNFT.sol
+│   │   └── SynthCats.sol
 │   └── foundry.toml
 ├── frontend/           # (To be implemented)
 └── README.md
