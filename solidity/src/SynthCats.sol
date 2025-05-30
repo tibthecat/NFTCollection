@@ -8,8 +8,8 @@ contract SynthCats is ERC721URIStorage, Ownable {
     uint256 public currentTokenId;
     string private baseTokenURI;
 
-    uint256 public constant MINT_PRICE = 0.05 ether;
-    uint256 public constant MAX_SUPPLY = 10000;
+    uint256 public constant MINT_PRICE = 0.001 ether;
+    uint256 public constant MAX_SUPPLY = 20;
 
     uint256 public mintStartTimestamp;
 
