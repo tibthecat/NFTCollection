@@ -24,7 +24,7 @@ nft-project/
 │   ├── src/
 │   │   └── SynthCats.sol
 │   └── foundry.toml
-├── frontend/           # (To be implemented)
+├── frontend/           # (Only mint button for now)
 └── README.md
 ```
 
